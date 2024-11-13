@@ -8,6 +8,7 @@ Ivanna Price
 
 ### Models Used 
 LSTM-RNN
+LDA
 Transformers
 
 ### Questions
