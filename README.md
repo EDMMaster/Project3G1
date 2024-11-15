@@ -6,6 +6,9 @@ Elijah Mercier
 LaQuita Palmer
 Ivanna Price
 
+### Resources
+WELFake_Dataset.csv:Fake News Classification Dataset by saurabhshahane
+evaluation.csv, test (1).csv, train (2).csv:Fake News Classification Dataset by aadyasingh55: 
 ### Models Used 
 LSTM-RNN
 LDA
