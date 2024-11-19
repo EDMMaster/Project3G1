@@ -16,7 +16,8 @@ Transformers
 3. What topics are targeted by fake news most?
 4. Frequency and Time posted
 
-Project Overview Fake news is a pervasive issue in today's digital world, influencing public opinion and decision-making. Our goal is to develop a machine learning pipeline that accurately classifies news articles as real or fake while analyzing patterns, trends, and keywords commonly found in fake news.
+### Project Overview 
+Fake news is a pervasive issue in today's digital world, influencing public opinion and decision-making. Our goal is to develop a machine learning pipeline that accurately classifies news articles as real or fake while analyzing patterns, trends, and keywords commonly found in fake news.
 
 We utilized advanced machine learning methodologies, including LSTM-RNN, LDA, and Transformers, to solve this problem. The solution leverages state-of-the-art tools and libraries, along with collaborative efforts to build a reliable and scalable model.
 
